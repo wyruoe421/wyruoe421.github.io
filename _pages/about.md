@@ -33,7 +33,6 @@ Previously, I completed an **Logistics Engineering** at *Beijing University of P
 - Forecasting
 - Machine Learning for Decision Support
 
-#You can explore my ongoing work in the [**Working Projects**](https://lingyuan1201.github.io/working-projects/) section.
 
 ## 📬 Contact
 
